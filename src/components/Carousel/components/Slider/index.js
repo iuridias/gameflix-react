@@ -28,10 +28,10 @@ const Container = styled.ul`
   }
 
   .slick-prev:before {
-    color: var(--primary);
+    color: var(--white);
   }
   .slick-next:before {
-    color: var(--primary);
+    color: var(--white);
   }
 `;
 
